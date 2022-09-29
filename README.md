@@ -5,4 +5,4 @@ This project includes experiments showing that classification using K-means on P
 
 A second experiment shows the effectiveness of denoising using an Autoencoder.
 
-The notebook for this project is [here](https://drive.google.com/file/d/19NbEE51--XMMsuNcy-_5jVQl1sQxK1Bf/view?usp=sharing).
+The notebook for this project is [here](https://drive.google.com/file/d/19NbEE51--XMMsuNcy-_5jVQl1sQxK1Bf/view?usp=sharing). The report is included as a pdf in this repository.
